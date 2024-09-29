@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" id="camera">
+  <polygon fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="4" points="47 12 42.88 8 21.12 8 17 12 2 12 2 56 62 56 62 12 47 12"></polygon>
+  <circle cx="32" cy="34" r="14" fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="4"></circle>
+  <path fill="none" stroke="#010101" stroke-miterlimit="10" stroke-width="2" d="M10,21h0a1,1,0,0,1-1-1H9a1,1,0,0,1,1-1h0a1,1,0,0,1,1,1h0A1,1,0,0,1,10,21Z"></path>
+</svg>
